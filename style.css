@@ -1,0 +1,29 @@
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*body*/
+body{
+    background-color: #e6e6e6;
+}
+
+/*header*/
+header{
+    background-color: white;
+    padding: 10PX;
+}
+.logo{
+    vertical-align: middle;
+    height: 45px;
+}
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: arial;
+    font-size: 40px;
+}
+/*end header*/
