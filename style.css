@@ -27,3 +27,156 @@ h1{
     font-size: 40px;
 }
 /*end header*/
+
+/*main*/
+.container-1{
+    margin: 5% auto;
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 0;
+}
+
+.link{
+    display: inline-block;
+    margin-top: 17px;
+    margin-bottom: 10px;
+}
+
+.link.task{
+    margin-left: 10%;
+}
+
+.link p{
+    font-family: Verdana;
+    font-size: 75%;
+}
+
+.task p{
+    background-color: #598eff;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    border: 1px solid #598eff;
+}
+
+.section p{
+    border-radius: 5px;
+    padding: 5px;
+    color: gray;
+    border: 1px solid gray;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*list*/
+.container-2{
+    margin: auto;
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+
+ul{
+    margin-left: 10%;
+    list-style-type: none;
+    font-family: arial;
+
+}
+
+li ul{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+li{
+    margin-bottom: 4%;
+}
+
+h2{
+    padding-top: 10%;
+}
+
+.h3{
+    font-weight: bolder;
+}
+
+.check{
+    color: green;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 15px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 8px;
+}
+
+.circle{
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.down{
+    display: inline-block;
+    margin-right: 8px;
+    font-size: 30px;
+}
+
+.x{
+    color: red;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 15px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 8px;
+}
+
+span{
+    border-radius: 15%;
+    padding: 5px;
+    color: white;
+    margin-left: 8px;
+}
+
+.editorial{
+    background-color: rgb(100, 100, 255);
+    border: 2px solid rgb(100, 100, 255);
+}
+
+.goals{
+    background-color: rgb(140, 0, 255);
+    border: 2px solid rgb(140, 0, 255);
+}
+
+.recruiting{
+    background-color: green;
+    border: 1px solid green;
+}
+
+.mobile{
+    background-color: orangered ;
+    border: 1px solid orangered;
+}
+
+.website{
+    background-color: pink ;
+    border: 1px solid pink;
+}
+
+.sales{
+    background-color: yellow;
+    border: 1px solid yellow;
+}
