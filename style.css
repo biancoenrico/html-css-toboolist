@@ -20,11 +20,12 @@ header{
     height: 45px;
 }
 
-h1{
+title{
     display: inline-block;
     vertical-align: middle;
     font-family: arial;
     font-size: 40px;
+    font-weight: 700;
 }
 /*end header*/
 
