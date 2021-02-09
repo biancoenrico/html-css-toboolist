@@ -146,10 +146,11 @@ h3{
 }
 
 span{
-    border-radius: 15%;
-    padding: 5px;
+    border-radius: 25px;
+    padding: 5px 10px;
     color: white;
     margin-left: 8px;
+    font-size: 10px;
 }
 
 .editorial{
